@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+background/
+*.png
+*.pdf
+*.docx
+*.csv
+*.zip
+*.pptx
+*.docx
+Assignment_Project.pbix
+loan2.pbix
+Loan_project.pbix
